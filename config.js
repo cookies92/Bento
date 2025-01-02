@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Radio',
+			icon: 'radio',
+			link: 'https://radio.garden/',
 		},
 		{
 			id: '3',
